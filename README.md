@@ -126,7 +126,7 @@ fixed | 뷰포트 | X
 
 ---
 
-<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
+<a href="https://naver.com" target="_blank">NAVER</a>
 
 ---
 
